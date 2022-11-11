@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: veer2/test8
+        image: anindyadc/webappnew
         ports:
         - containerPort: 80
